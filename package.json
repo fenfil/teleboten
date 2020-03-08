@@ -1,0 +1,8 @@
+{
+  "name": "teleboten",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fenfil/teleboten.git",
+  "author": "fenfil <vladimir.zaykovskiy@ya.ru>",
+  "license": "MIT"
+}
